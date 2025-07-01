@@ -10,13 +10,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satishkumar-yadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satishkumar-yadav&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=satishkumar-yadav&theme=react&hide_border=false)<br/>
@@ -27,6 +20,11 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satishkumar-yadav&icon=0&color=0)](https://visitcount.itsvg.in)
