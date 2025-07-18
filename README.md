@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 **I’m currently working on:** CollegePro- College Management System<br>- 🌱 **I’m currently learning:** Full Stack Development<br>- 👯 **I’m looking to collaborate on:** Enter your project name and info<br>- 🤔 **I’m looking for help with:** Your project here<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** Enter your email here<br>- 😄 **Pronouns:** Satish<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+## 🌐 Deployed Projects:
+[![Blog Manager Frontend](https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg)](https://go-blogmanager.netlify.app)
+[![Blog Manager Backend]()](https://blog-backend-go.onrender.com)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satishkumar-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
 
