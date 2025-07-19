@@ -1,3 +1,48 @@
+# 👋 Hi, I'm Satish Kumar Yadav
+
+**B.Tech CSE | Full Stack Developer | Backend Engineer | Cloud Enthusiast**
+
+---
+
+## 💡 About Me
+- 🎓 Final Year B.Tech (CSE), NSIT Bihta, BEU Patna (2020-2025)
+- 🌍 Tech Stack: **React, Node.js, Go, Java, MySQL, MongoDB, Docker, AWS, HTML, CSS, JavaScript**
+- 🎭 Internships: Flipkart SC Academy, ICETL (Android Dev), NIELIT (ML), Aagaz (Data Science)
+- 🏢 Focused on **Backend Development**, **REST APIs**, **JWT Authentication**, **Cloud Deployment**, **Session Management**
+
+---
+
+## 🚀 Projects
+
+### 📅 BlogEasy (Full Stack Blog Management App)
+> React + Go + MySQL
+- ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
+- 🚀 Deployment: [Frontend on Netlify](#) | [Backend on Render](#)
+- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+
+### 🏫 CollegePro (College Management System)
+> React + Go + MySQL + MongoDB
+- ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, Dual DB (MySQL + MongoDB)
+- 🚀 Deployment: [Frontend on Netlify](#) | [Backend on Render](#)
+- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+
+### 📖 Book Manager API (Go Backend Only)
+> Go (Fiber + GORM + MySQL)
+- ✨ Features: Login/Register, JWT Auth, CORS, Full CRUD, Session Management
+- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+
+---
+
+## 💬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav)
+
+---
+
+## 📊 Stats
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishkumar-yadav&show_icons=true&theme=radical)
+
+
 
 <h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
