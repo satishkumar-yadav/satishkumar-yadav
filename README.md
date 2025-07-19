@@ -1,3 +1,66 @@
+
+<h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/satishkumar-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 🧑‍🎓 About Me
+
+- 🎓 B.Tech CSE (2020–2025) from NSIT Bihta, Patna  
+- 🌱 Currently polishing my skills in Full Stack Development and DevOps  
+- 💡 Strong foundation in Java, Go, React.js, Node.js, MongoDB, and MySQL  
+- 🚀 Actively looking for full-time roles in Software Development  
+
+---
+
+### 💼 Tech Stack
+
+- **Languages:** Java, Go, C++, Python  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Java (JSP, Servlets), Go (Gin), Node.js (Express)  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, Docker, AWS EC2, Netlify  
+
+---
+
+### 🛠 Projects
+
+#### 🚀 [College Management System (Java)](https://github.com/satishkumar-yadav/CollegeManagementSystem)
+> Java Swing + MySQL based ERP for colleges with student/faculty login, attendance, and result features.
+
+#### 🌐 [CollegePro Web App](https://github.com/satishkumar-yadav/CollegePro)
+> React + Go + MongoDB + MySQL ERP web app. Deployed on AWS EC2.  
+> 🔗 **Live Demo**: `http://your-deployment-link.com`
+
+#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio)
+> Responsive portfolio built using React.js  
+> 🔗 **Live Site**: `http://your-portfolio-link.com`
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: [satishkumar-yadav](https://www.linkedin.com/in/satishkumar-yadav/)  
+- GitHub: [satishkumar-yadav](https://github.com/satishkumar-yadav)  
+- Email: satish@example.com  
+
+---
+
+⭐️ *Thank you for visiting my profile!*
+
+
+
+
+
 # 💫 About Me:
 
 I’m a final-year B.Tech CSE student (2025) from NSIT Bihta with hands-on experience in Java development and web technologies like JSP/Servlet, JDBC, and MySQL.
