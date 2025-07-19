@@ -20,6 +20,10 @@
 🌐 Deployed Projects on Netlify, Render & AWS
 📫 Connect on LinkedIn | 📁 Portfolio Coming Soon!
 
+🚀 Full Stack Developer | Backend Engineer (Go | Node | Java) | Cloud DevOps Enthusiast
+
+I'm Satish, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
+
 - 🎓 B.Tech CSE (2020–2025) from NSIT Bihta, Patna  
 - 🌱 Currently polishing my skills in Full Stack Development and DevOps  
 - 💡 Strong foundation in Java, Go, React.js, Node.js, MongoDB, and MySQL  
