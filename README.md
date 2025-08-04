@@ -1,47 +1,31 @@
 # 👋 Hi, I'm Satish Kumar Yadav
+<h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 **B.Tech CSE | Full Stack Developer | Backend Engineer | Cloud Enthusiast**
+🚀 Full Stack Developer | Backend Engineer (Go | Node | Java) | Cloud DevOps Enthusiast
+🚀 Full Stack Developer | Backend Developer
 
+I'm Satish, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
 
-## 💡 About Me
+---
+
+## 💡 About Me 🧑‍🎓💫:
 - 🎓 Final Year B.Tech (CSE), NSIT Bihta, BEU Patna (2020-2025)
 - 🌍 Tech Stack: **React, Node.js, Go, Java, MySQL, MongoDB, Docker, AWS, HTML, CSS, JavaScript**
 - 🎭 Internships: Flipkart SC Academy, ICETL (Android Dev), NIELIT (ML), Aagaz (Data Science)
 - 🏢 Focused on **Backend Development**, **REST APIs**, **JWT Authentication**, **Cloud Deployment**, **Session Management**
 
 
-<h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/satishkumar-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-### 🧑‍🎓 About Me
-
-🚀 Full Stack Developer | Backend Developer
 👨‍💻 Tech Stack: Go, Java, React, Node.js, MySQL, MongoDB
 🌐 Deployed Projects on Netlify, Render & AWS
 📫 Connect on LinkedIn | 📁 Portfolio Coming Soon!
-
-🚀 Full Stack Developer | Backend Engineer (Go | Node | Java) | Cloud DevOps Enthusiast
-
-I'm Satish, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
 
 - 🎓 B.Tech CSE (2020–2025) from NSIT Bihta, Patna  
 - 🌱 Currently polishing my skills in Full Stack Development and DevOps  
 - 💡 Strong foundation in Java, Go, React.js, Node.js, MongoDB, and MySQL  
 - 🚀 Actively looking for full-time roles in Software Development  
 
-
-# 💫 About Me:
 
 I’m a final-year B.Tech CSE student (2025) from NSIT Bihta with hands-on experience in Java development and web technologies like JSP/Servlet, JDBC, and MySQL.
 I’ve built and deployed a full-stack **College Management System** using Java Swing (desktop), JSP/Servlet (web), and AWS EC2 for cloud deployment.
@@ -55,26 +39,12 @@ I’ve also completed internships in Android App Development and Machine Learnin
 
 ---
 
-### 🛠 Projects
-
-#### 🚀 [College Management System (Java)](https://github.com/satishkumar-yadav/CollegeManagementSystem)
-> Java Swing + MySQL based ERP for colleges with student/faculty login, attendance, and result features.
-
-#### 🌐 [CollegePro Web App](https://github.com/satishkumar-yadav/CollegePro)
-> React + Go + MongoDB + MySQL ERP web app. Deployed on AWS EC2.  
-> 🔗 **Live Demo**: `http://your-deployment-link.com`
-
-#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio)
-> Responsive portfolio built using React.js  
-> 🔗 **Live Site**: `http://your-portfolio-link.com`
-
-
-## 🚀 Projects
+## 🚀 Projects 🛠 
 
 ### 📅 BlogEasy (Full Stack Blog Management App)
 > React + Go + MySQL
 - ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
-- 🚀 Deployment: [Frontend on Netlify](#) | [Backend on Render](#)
+- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](#)
 - 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
 
 ### 🏫 CollegePro (College Management System)
@@ -86,40 +56,44 @@ I’ve also completed internships in Android App Development and Machine Learnin
 ### 📖 Book Manager API (Go Backend Only)
 > Go (Fiber + GORM + MySQL)
 - ✨ Features: Login/Register, JWT Auth, CORS, Full CRUD, Session Management
-- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+- 🔗 Source Code: [GitHub Repo](https://blog-backend-go.onrender.com)
 
-
-## 🌐 Deployed Projects:
-[![Blog Manager Frontend](https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg)](https://go-blogmanager.netlify.app)
-[![Blog Manager Backend]()](https://blog-backend-go.onrender.com)
+#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio)
+> Responsive portfolio built using React.js  
+> 🔗 **Live Site**: `http://your-portfolio-link.com`
 
 ---
 
-## 💬 Connect With Me
+## 💬 Connect With Me 📫 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav)
 
-### 📫 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satishkumar-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
 
 - LinkedIn: [satishkumar-yadav](https://www.linkedin.com/in/satishkumar-yadav/)  
 - GitHub: [satishkumar-yadav](https://github.com/satishkumar-yadav)  
 - Email: satish@example.com  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satishkumar-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/satishkumar-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### 💼 Tech Stack
+# 💻 Tech Stack 💼  :
 
-- **Languages:** Java, Go, C++, Python  
+- **Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - **Frontend:** React.js, HTML, CSS, JavaScript  
 - **Backend:** Java (JSP, Servlets), Go (Gin), Node.js (Express)  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Docker, AWS EC2, Netlify  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
 
 ---
 
