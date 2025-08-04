@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
 
-<h3 align="center"> **B.Tech CSE | Full Stack Developer | Backend Engineer(Go | Node ) | Cloud DevOps Enthusiast**  </h3>
+<h3 align="center"> B.Tech CSE | Full Stack Developer | Backend Engineer(Go | Node ) | Cloud DevOps Enthusiast  </h3>
 
 ---
 
 ## 💬 Connect With Me 📫 
-<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav)
-</p>
+
 <!-- 
 <p align="center">
   <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
