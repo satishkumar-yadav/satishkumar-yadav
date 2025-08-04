@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satish Kumar Yadav, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!</h1>
+<h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
 
 **B.Tech CSE | Full Stack Developer | Backend Engineer(Go | Node ) | Cloud DevOps Enthusiast**
 
@@ -24,6 +24,7 @@
 ---
 
 ## 💡 About Me 🧑‍🎓💫:
+ passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
 - 🎓 Final Year B.Tech (CSE), NSIT Bihta, BEU Patna (2020-2025)
 - 🌍 Tech Stack: **React, Node.js, Go, Java, MySQL, MongoDB, Docker, AWS, HTML, CSS, JavaScript**
 - 🎭 Internships: Flipkart SC Academy, ICETL (Android Dev), NIELIT (ML), Aagaz (Data Science)
