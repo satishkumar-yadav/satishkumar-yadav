@@ -1,12 +1,25 @@
-# 👋 Hi, I'm Satish Kumar Yadav
-<h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Satish Kumar Yadav, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!</h1>
 
-**B.Tech CSE | Full Stack Developer | Backend Engineer | Cloud Enthusiast**
-🚀 Full Stack Developer | Backend Engineer (Go | Node | Java) | Cloud DevOps Enthusiast
-🚀 Full Stack Developer | Backend Developer
+**B.Tech CSE | Full Stack Developer | Backend Engineer(Go | Node ) | Cloud DevOps Enthusiast**
 
-I'm Satish, passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
+---
+
+## 💬 Connect With Me 📫 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav)
+
+<!-- 
+<p align="center">
+  <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/satishkumar-yadav" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+-->
 
 ---
 
@@ -61,27 +74,6 @@ I’ve also completed internships in Android App Development and Machine Learnin
 #### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio)
 > Responsive portfolio built using React.js  
 > 🔗 **Live Site**: `http://your-portfolio-link.com`
-
----
-
-## 💬 Connect With Me 📫 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satishkumar-yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) 
-
-- LinkedIn: [satishkumar-yadav](https://www.linkedin.com/in/satishkumar-yadav/)  
-- GitHub: [satishkumar-yadav](https://github.com/satishkumar-yadav)  
-- Email: satish@example.com  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/satishkumar-yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/satishkumar-yadav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
