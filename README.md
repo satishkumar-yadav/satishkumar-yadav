@@ -20,33 +20,16 @@
 ---
 
 ## 💡 About Me 🧑‍🎓💫:
- passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
-- 🎓 Final Year B.Tech (CSE), NSIT Bihta, BEU Patna (2020-2025)
-- 🌍 Tech Stack: **React, Node.js, Go, Java, MySQL, MongoDB, Docker, AWS, HTML, CSS, JavaScript**
-- 🎭 Internships: Flipkart SC Academy, ICETL (Android Dev), NIELIT (ML), Aagaz (Data Science)
+
+- 🎓 passionate about creating scalable, secure, and efficient full stack applications. Open to backend/full stack roles and internships. Let's build something amazing together!
+- - 🌱 Currently polishing my skills in Full Stack Development and DevOps  
+- 💡 Strong foundation in Go, React.js, Node.js, Express.js, MongoDB, and MySQL
+- 🔭 **I’m currently working on:** CollegePro- College Management System
 - 🏢 Focused on **Backend Development**, **REST APIs**, **JWT Authentication**, **Cloud Deployment**, **Session Management**
-
-
-👨‍💻 Tech Stack: Go, Java, React, Node.js, MySQL, MongoDB
-🌐 Deployed Projects on Netlify, Render & AWS
-📫 Connect on LinkedIn | 📁 Portfolio Coming Soon!
-
-- 🎓 B.Tech CSE (2020–2025) from NSIT Bihta, Patna  
-- 🌱 Currently polishing my skills in Full Stack Development and DevOps  
-- 💡 Strong foundation in Java, Go, React.js, Node.js, MongoDB, and MySQL  
-- 🚀 Actively looking for full-time roles in Software Development  
-
-
-I’m a final-year B.Tech CSE student (2025) from NSIT Bihta with hands-on experience in Java development and web technologies like JSP/Servlet, JDBC, and MySQL.
-I’ve built and deployed a full-stack **College Management System** using Java Swing (desktop), JSP/Servlet (web), and AWS EC2 for cloud deployment.
-I’ve also completed internships in Android App Development and Machine Learning, and constantly upskill through projects and problem-solving in Java DSA.
-🔧 Skills: Java, JDBC, JSP, Servlet, MySQL, HTML, CSS, Git, GitHub, AWS EC2  
-📦 GitHub: github.com/yourusername  
-📬 Open to backend developer roles and internships
-
-
-🔭 **I’m currently working on:** CollegePro- College Management System<br>- 🌱 **I’m currently learning:** Full Stack Development<br>- 👯 **I’m looking to collaborate on:** Enter your project name and info<br>- 🤔 **I’m looking for help with:** Your project here<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** Enter your email here<br>- 😄 **Pronouns:** Satish<br>- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
+- **Pronouns:** Satish
+- **Fun fact:** I Love Tech and Tech Love Me
+- 🌐 Deployed Projects on Netlify, Render & AWS EC2
+- 🚀 Actively looking for full-time roles in Software Development 
 ---
 
 ## 🚀 Projects 🛠 
@@ -122,4 +105,5 @@ I’ve also completed internships in Android App Development and Machine Learnin
 
   ⭐️ *Thank you for visiting my profile!*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Emojis: 📫  📁  🌍  🎭 🔧 📦 👨‍💻  👯  🤔  💬  📫 * 😄  ⚡  -->
