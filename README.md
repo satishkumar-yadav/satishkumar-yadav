@@ -38,7 +38,7 @@
 ### 📅 BlogEasy (Full Stack Blog Management App)
 > React + Go + MySQL
 - ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
-- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](h) 
+- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](https://blog-backend-go.onrender.com) 
 - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
 
 ### 🏫 CollegePro (College Management System)
