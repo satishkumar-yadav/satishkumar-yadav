@@ -38,23 +38,23 @@
 ### 📅 BlogEasy (Full Stack Blog Management App)
 > React + Go + MySQL
 - ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
-- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](#)
-- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](h) 
+- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
 
 ### 🏫 CollegePro (College Management System)
 > React + Go + MySQL + MongoDB
 - ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, Dual DB (MySQL + MongoDB)
-- 🚀 Deployment: [Frontend on Netlify](#) | [Backend on Render](#)
-- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav)
+- 🚀 Deployment: [Frontend on Netlify](https://collegepro-cms.netlify.app/) 
+- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/collegePro-frontend-react) | [Backend Repo](https://github.com/satishkumar-yadav/collegePro-backend-go)
 
-### 📖 Book Manager API (Go Backend Only)
+### 📖 Book Manager REST API (Go CRUD Backend Only)
 > Go (Fiber + GORM + MySQL)
 - ✨ Features: Login/Register, JWT Auth, CORS, Full CRUD, Session Management
-- 🔗 Source Code: [GitHub Repo](https://blog-backend-go.onrender.com)
+- 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav/bookManager-go-crud-REST-API)
 
-#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio)
+#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio-Website)
 > Responsive portfolio built using React.js  
-> 🔗 **Live Site**: `http://your-portfolio-link.com`
+> 🔗 **Live Site**: `https://techysatish.netlify.app/`
 
 ---
 
