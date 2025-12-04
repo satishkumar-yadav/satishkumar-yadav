@@ -54,7 +54,7 @@
 
 #### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio-Website)
 > Responsive portfolio built using React.js  
-> 🔗 **Live Site**: `https://techysatish.netlify.app/`
+> 🔗 **Live Site**: `https://portfolio-satishkumar-yadav.vercel.app/`
 
 ---
 
