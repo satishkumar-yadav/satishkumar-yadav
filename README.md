@@ -52,7 +52,7 @@
 - ✨ Features: Login/Register, JWT Auth, CORS, Full CRUD, Session Management
 - 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav/bookManager-go-crud-REST-API)
 
-#### 👨‍💼 [Portfolio Website](https://github.com/satishkumar-yadav/Portfolio-Website)
+#### 👨‍💼 [Portfolio Website](https://portfolio-satishkumar-yadav.vercel.app/)
 > Responsive portfolio built using React.js  
 > 🔗 **Live Site**: `https://portfolio-satishkumar-yadav.vercel.app/`
 
