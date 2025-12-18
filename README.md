@@ -24,7 +24,7 @@
 - 🎓 passionate about creating scalable, secure, and efficient full stack applications.
 - 🌱 Currently polishing my skills in Full Stack Development and DevOps  
 - 💡 Strong foundation in Go, React.js, Node.js, Express.js, MongoDB, and MySQL
-- 🔭 **I’m currently working on:** CollegePro- College Management System
+- 🔭 **I’m currently working on:** TravelBuddy (Fullstack Travel Organiser with AI and Social Community) 
 - 🏢 Focused on **Backend Development**, **REST APIs**, **JWT Authentication**, **Cloud Deployment**, **Session Management**
 - **Pronouns:** Satish
 - **Fun fact:** I Love Tech and Tech Love Me
@@ -35,14 +35,14 @@
 
 ## 🚀 Projects 🛠 
 
-### 🏫 CollegePro (College Management System) - InProgress
-> React + Go + MySQL + MongoDB
-- ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, Dual DB (MySQL + MongoDB)
+### 🏫 TravelBuddy (Fullstack Travel Organiser with AI and Social Community) - InProgress
+> NextJs + Node(Express) + MongoDB
+- ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, 
 - 🚀 Deployment: [Frontend on Netlify](https://collegepro-cms.netlify.app/) 
-- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/collegePro-frontend-react) | [Backend Repo](https://github.com/satishkumar-yadav/collegePro-backend-go)
+- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/) | [Backend Repo](https://github.com/satishkumar-yadav/)
 
 ### 📅 BlogEasy (Full Stack Blog Management App)
-> React + Go + MySQL
+> React/NextJs + Go/Node(ExpressJs) + MySQL
 - ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
 - 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](https://blog-backend-go.onrender.com) 
 - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
@@ -56,6 +56,13 @@
 > Responsive portfolio built using React.js  
 > 🔗 **Live Site**: `https://portfolio-satishkumar-yadav.vercel.app/`
 
+<!--
+### 🏫 CollegePro (College Management System) - InProgress
+> React + Go + MySQL + MongoDB
+- ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, Dual DB (MySQL + MongoDB)
+- 🚀 Deployment: [Frontend on Netlify](https://collegepro-cms.netlify.app/) 
+- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/collegePro-frontend-react) | [Backend Repo](https://github.com/satishkumar-yadav/collegePro-backend-go)
+-->
 ---
 
 # 💻 Tech Stack 💼  :
