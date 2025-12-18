@@ -37,12 +37,19 @@
 
 ### 🏫 TravelBuddy (Fullstack Travel Organiser with AI and Social Community) - InProgress
 > NextJs + Node(Express) + MongoDB
-- ✨ Features: OTP Auth, JWT Sessions, Self Registration, Admin Panel, Email Notifications, 
-- 🚀 Deployment: [Frontend on Netlify](https://collegepro-cms.netlify.app/) 
-- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/) | [Backend Repo](https://github.com/satishkumar-yadav/)
+- Architected a scalable full-stack travel management system using Next.js (App Router), Tailwind CSS, Redux, Framer Motion on the frontend and Node.js, Express, MongoDB (Mongoose) on the backend, supporting 1K+ concurrent trip listings.
+- Implemented advanced role-based authorization (RBAC) for travelers, trip leaders, and travel agencies with JWT-based auth, OTP verification, ID validation, and bcrypt hashing, reducing unauthorized access by ~70%.
+- Built trip discovery & creation workflows allowing verified users to publish public, private, or invite-only trips, complete with ratings, safety scores, organizer profiles, and detailed itineraries.
+- Integrated AI-driven chatbots for personalized travel recommendations, budget planning, and query resolution, improving user engagement time by 35% and lowering support queries.
+- Developed real-time communication & safety features including user-to-user messaging, notifications, emergency SOS alerts, and inactivity-based session expiry, ensuring reliability and traveler safety.
+- 🚀 Deployment: [on Vercel](https://travelbuddy-nextjs-eta.vercel.app/) 
+- 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs) | [Backend Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs)
 
 ### 📅 BlogEasy (Full Stack Blog Management App)
 > React/NextJs + Go/Node(ExpressJs) + MySQL
+- Designed and launched a dynamic full-stack blog management app supporting 500+ blog entries with
+responsive UI and real-time notifications.
+- Built reusable React components and dynamic routing, cutting page load times by 20%.
 - ✨ Features: Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
 - 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](https://blog-backend-go.onrender.com) 
 - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
