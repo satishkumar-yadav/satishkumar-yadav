@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1>
 
-<h3 align="center"> B.Tech CSE | Full Stack Developer | Backend Engineer(Go | Node ) | Cloud DevOps Enthusiast  </h3>
+<h3 align="center"> B.Tech CSE | Full Stack Developer | Backend Engineer(Java | Node ) | Cloud DevOps Enthusiast  </h3>
 
 ---
 
