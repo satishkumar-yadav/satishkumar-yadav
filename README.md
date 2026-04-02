@@ -2,17 +2,19 @@
  <!-- Banner -->
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Satish%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Full%20Stack%20Engineer%20|%20MERN%20Stack&descAlignY=55&descAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Full+Stack+Engineer;MERN+Stack+Developer;REST+API+Designer;Building+Scalable+Web+Applications&center=true&width=500&height=25">
+  <img src="https://komarev.com/ghpvc/?username=satishkumar-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 <!-- Animated Typing Introduction - below About section. -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Full+Stack+Engineer;MERN+Stack+Developer;REST+API+Designer;Building+Scalable+Web+Applications&center=true&width=500&height=45">
-</p>
+</p> -->
 
 <!-- Profile Visitor Counter - Place below header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satishkumar-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+</p> -->
 
  <!-- <h1 align="center">Hi 👋, I'm Satish Kumar Yadav</h1> -->
  
@@ -45,8 +47,7 @@
  
 <!-- 🎓 🏗️ 🚀 ⚙️ 🌱 🔭 🏢 🌐   -->
 
- # 💡 About Me 🧑‍🎓💫:
-
+# 💡 About Me 🧑‍🎓💫:
 I am a **Full Stack Developer and Backend Engineer** passionate about building **scalable, secure, and high-performance web applications**.
 
 My primary expertise lies in **backend engineering using Java and Node.js**, designing **REST APIs, authentication systems, and scalable architectures**.
@@ -71,7 +72,7 @@ I enjoy solving complex problems and designing **clean architectures using SOLID
 
 -----------------------------------------
 
- ## 🚀 Featured Projects 🛠 
+# 🚀 Featured Projects 🛠 
 
 ## 🏦 SyncBank – Secure Banking Management System
 > **Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT
@@ -85,8 +86,7 @@ Developed a **secure full-stack banking system** supporting account management a
 - Built a modular React single-page application (SPA) consuming custom APIs using Async/Await.
 - 🔗 [Frontend Source](https://github.com/satishkumar-yadav/SyncBank-UI) | [Backend Source](https://github.com/satishkumar-yadav/SyncBank-backend) | [Live](https://sync-bank-ui.vercel.app/)
 
----------------------------------------------------------------------------------------------
-  
+----------------------------------------------------------------
 
 ## 🌍🏫 TravelBuddy – TravelBuddy (Fullstack Travel Organiser with AI and Social Community) - InProgress
 
@@ -110,7 +110,7 @@ Building a **full-stack travel organizer platform** with social features.
  - 🚀 Deployment: [Live Demo](https://travelbuddy-nextjs-eta.vercel.app/) 
  - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs) | [Backend Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs)
  
- -------------------------------------------------------------------------------------------
+ ---------------------------------------------------------------
 
 ## 📝📅 BlogEasy – Full Stack Blog Management System
 
