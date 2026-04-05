@@ -20,7 +20,7 @@
  
  <!-- <h3 align="center"> Software Developer | Java Full-Stack & MERN | Backend Specialist | • Spring Boot • Servlets • Node.js • React • MySQL • MongoDB | B.Tech CSE '25 </h3> -->
 
- ## 💬 Connect With Me 📫: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav8730@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/satishkumar_yadav/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://portfolio-satishkumaryadav.vercel.app/)
+ ## 💬 Connect With Me 📫: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/satishkumar-yadav/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://portfolio-satishkumar-yadav.vercel.app/)
  
  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav) -->
  
