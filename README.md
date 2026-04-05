@@ -239,9 +239,11 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
  ![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishkumar-yadav&show_icons=true&theme=radical)
  
  # 📊 GitHub Stats:
+  ![](https://nirzak-streak-stats.vercel.app/?user=satishkumar-yadav&theme=react&hide_border=false)
+  
  ![](https://github-readme-stats.vercel.app/api?username=satishkumar-yadav&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
- ![](https://nirzak-streak-stats.vercel.app/?user=satishkumar-yadav&theme=react&hide_border=false)<br/>
+
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satishkumar-yadav&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  
