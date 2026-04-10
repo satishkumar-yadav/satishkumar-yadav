@@ -90,6 +90,7 @@ Developed a **secure full-stack banking system** supporting account management a
     </p>
 </details>
 
+<!--  
 ## 🏦 SyncBank – Secure Banking Management System
 > **Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT
 
@@ -101,9 +102,35 @@ Developed a **secure full-stack banking system** supporting account management a
 - Engineered secure endpoints for real-time banking workflows such as account creation, deposit, withdrawal, PIN management, and transaction validation.
 - Built a modular React single-page application (SPA) consuming custom APIs using Async/Await.
 - 🔗 [Frontend Source](https://github.com/satishkumar-yadav/SyncBank-UI) | [Backend Source](https://github.com/satishkumar-yadav/SyncBank-backend) | [Live](https://sync-bank-ui.vercel.app/)
-
+ -->
 ----------------------------------------------------------------
 
+<details>
+    <summary>## 🌍🏫 TravelBuddy – TravelBuddy (Fullstack Travel Organiser with AI and Social Community) - InProgress</summary>
+    <p>
+      **Tech Stack:**  
+>  Next.js,  Node(Express),• MongoDB
+
+Building a **full-stack travel organizer platform** with social features.
+
+### Key Contribution
+- Architected a scalable system supporting **1K+ concurrent trip listings** with role-based authorization (RBAC).
+- Integrated **AI-driven chatbots** for personalized planning, increasing user engagement by 35%.
+- Built real-time safety features including emergency SOS alerts and inactivity-based session management.
+
+### Planned Features
+- AI-powered travel planning
+- Trip discovery and creation
+- Real-time messaging and notifications
+- Role-based access control (RBAC)
+- JWT authentication with OTP verification
+
+ - 🚀 Deployment: [Live Demo](https://travelbuddy-nextjs-eta.vercel.app/) 
+ - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs) | [Backend Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs)
+    </p>
+</details>
+
+<!--  
 ## 🌍🏫 TravelBuddy – TravelBuddy (Fullstack Travel Organiser with AI and Social Community) - InProgress
 
 **Tech Stack:**  
@@ -125,12 +152,13 @@ Building a **full-stack travel organizer platform** with social features.
 
  - 🚀 Deployment: [Live Demo](https://travelbuddy-nextjs-eta.vercel.app/) 
  - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs) | [Backend Repo](https://github.com/satishkumar-yadav/travelbuddy-nextjs)
- 
+  -->
  ---------------------------------------------------------------
 
-## 📝📅 BlogEasy – Full Stack Blog Management System
-
-**Tech Stack:**  
+<details>
+    <summary>## 📝📅 BlogEasy – Full Stack Blog Management System</summary>
+    <p>
+      **Tech Stack:**  
 > React • Java Servlets • JDBC • MySQL • REST API
 
 A **dynamic full-stack blogging platform** supporting content publishing and management.
@@ -149,14 +177,45 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
 
 - 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](https://blog-backend-go.onrender.com) 
  - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
+    </p>
+</details>
+
+<!--  
+## 📝📅 BlogEasy – Full Stack Blog Management System
+
+**Tech Stack:**  
+> React • Java Servlets • JDBC • MySQL • REST API
+
+A **dynamic full-stack blogging platform** supporting content publishing and management.
+<!-- a full-stack blog management platform enabling content creation, publishing, and real-time blog updates. -->
+<!--
+### Key Contributions:
+- Built a blog management platform supporting 500+ entries using 3-tier architecture (Controller, Service, DAO).
+- Developed responsive React components with optimized client-side routing, reducing page load time by 20%.
+- Designed dynamic routing & modular backend services, ensuring the platform remains scalable for high data volumes.
+- Deployed Role-Based Access Control (RBAC) to secure publishing workflows and administrative blog management.
+-  Optimized backend logic by applying SOLID/DRY principles, reducing code duplication by 40%.
+ 
+### Key ✨ Features: 
+- Login/Register, JWT Auth, CRUD Blog Posts, Dynamic Interface, Notifications
+- Supports **500+ blog entries** with efficient database queries
+
+- 🌐  Deployment: [Frontend on Netlify](https://go-blogmanager.netlify.app) | [Backend on Render](https://blog-backend-go.onrender.com) 
+ - 🔗 Source Code: [Frontend GitHub Repo](https://github.com/satishkumar-yadav/blog_frontend_react) | [Backend Go Repo](https://github.com/satishkumar-yadav/blog_backend_go) | [Backend Node(Express) Repo](#https://github.com/satishkumar-yadav/blog-backend-node-express)
+
+ -->
  
 --------------------------------------------
 
- ### 📖 Book Manager REST API (Go CRUD Backend Only)
- > Go (Fiber + GORM + MySQL)
+<details>
+    <summary> ### 📖 Book Manager REST API (Go CRUD Backend Only)</summary>
+    <p>
+      > Go (Fiber + GORM + MySQL)
  - ✨ Features: Login/Register, JWT Auth, CORS, Full CRUD, Session Management
  - 🔗 Source Code: [GitHub Repo](https://github.com/satishkumar-yadav/bookManager-go-crud-REST-API)
- 
+    </p>
+</details>
+
  #### 👨‍💼 [Portfolio Website](https://portfolio-satishkumar-yadav.vercel.app/)
  > Responsive portfolio built using React.js  
  > 🔗 **Live Site**: `https://portfolio-satishkumar-yadav.vercel.app/`
