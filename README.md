@@ -74,6 +74,23 @@ I enjoy solving complex problems and designing **clean architectures using SOLID
 
 # 🚀 Featured Projects 🛠 
 
+<details>
+    <summary>
+     <h2>🏦 SyncBank – Secure Banking Management System</h2>
+     <h3>**Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT</h3>
+    </summary>
+    <p>
+      Developed a **secure full-stack banking system** supporting account management and financial transactions processing.
+
+### Key Contribution
+- Developed a robust core banking engine from scratch, enabling the system to handle diverse banking rules for multiple banks within a unified context.
+- Implemented a multi-layered security protocol including JWT/OTP authentication, bcrypt encryption, and auto session expiry  after 10 minutes of inactivity to strengthen platform security and fraud protection.
+- Engineered secure endpoints for real-time banking workflows such as account creation, deposit, withdrawal, PIN management, and transaction validation.
+- Built a modular React single-page application (SPA) consuming custom APIs using Async/Await.
+- 🔗 [Frontend Source](https://github.com/satishkumar-yadav/SyncBank-UI) | [Backend Source](https://github.com/satishkumar-yadav/SyncBank-backend) | [Live](https://sync-bank-ui.vercel.app/)
+    </p>
+</details>
+
 ## 🏦 SyncBank – Secure Banking Management System
 > **Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT
 
