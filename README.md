@@ -75,10 +75,11 @@ I enjoy solving complex problems and designing **clean architectures using SOLID
 # 🚀 Featured Projects 🛠 
 
 <details>
-    <summary>🏦 SyncBank – Secure Banking Management System  </summary>
+    <summary>## 🏦 SyncBank – Secure Banking Management System  </summary>
     <p>
-     > **Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT
-      Developed a **secure full-stack banking system** supporting account management and financial transactions processing.
+  > **Tech Stack:** Java • Jakarta Servlet • JDBC • MongoDB • React • REST API • JWT
+     
+Developed a **secure full-stack banking system** supporting account management and financial transactions processing.
 
 ### Key Contribution
 - Developed a robust core banking engine from scratch, enabling the system to handle diverse banking rules for multiple banks within a unified context.
