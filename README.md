@@ -309,6 +309,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishkumar-yadav&theme=react&layout=compact" alt="Top Langs" height="150" />
 </p> -->
 
+<!--
  ## 📊 Stats
  ![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishkumar-yadav&show_icons=true&theme=radical)
  
@@ -320,7 +321,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
   
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satishkumar-yadav&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
+ -->
 
 <!-- professional  -->
 <!-- # 📊 GitHub Stats
@@ -380,11 +381,11 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
 ## 📄 Resume
 
 <p align="center" style="display:flex; flex-direction:row;">
-<a href="https://drive.google.com/file/d/1AYr_hW2bM8iVIqJ4tk6Y1q-2BR3FhCQ0/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1zIxVRaXoqZA9XaWRGOrlAHvV87_JNx97/view?usp=sharing">
 <img src="https://img.shields.io/badge/Download%20MERN Resume-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1f30ah6X_8vX4WHj_m1GG6I7-cpq7u7-a/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1wowauxR6lL3OPpNQhBzGqr2FUYeU4flK/view?usp=sharing">
 <img src="https://img.shields.io/badge/Download%20Java Resume-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
