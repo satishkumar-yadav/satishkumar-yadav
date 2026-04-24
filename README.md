@@ -53,7 +53,7 @@ My primary expertise lies in **backend engineering using Java and Node.js**, des
 
 I have hands-on experience developing **real-world full-stack applications** using:
 
-- **Java (Core Java, Servlets, JDBC)**
+- **Java (Core Java, Java 8, SpringBoot, Hibernate, Jakarta Servlets, JDBC)**
 - **Node.js / Express.js**
 - **React.js**
 - **MySQL & MongoDB**
