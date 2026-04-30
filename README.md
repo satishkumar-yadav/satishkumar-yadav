@@ -19,7 +19,7 @@
  
  <!-- <h3 align="center"> Software Developer | Java Full-Stack & MERN | Backend Specialist | • Spring Boot • Servlets • Node.js • React • MySQL • MongoDB | B.Tech CSE '25 </h3> -->
 
- ## 💬 Connect With Me 📫: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/satishkumar-yadav/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://portfolio-satishkumar-yadav.vercel.app/)
+ ## 💬 Connect With Me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satishkumar-yadav/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishkumaryadav.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/satishkumar-yadav/) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://portfolio-satishkumar-yadav.vercel.app/)
  
  <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_satishkumar_yadav) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/satishkumar-yadav) -->
  
@@ -44,9 +44,9 @@
 - [cite_start]**Architecture:** Strong advocate for **3-Tier DAO Architecture**, **SOLID principles** and "Framework-less" Java mastery[cite: 8, 39]. -->
 
  
-<!-- 🎓 🏗️ 🚀 ⚙️ 🌱 🔭 🏢 🌐   -->
+<!-- 🎓 🏗️ 🚀 ⚙️ 🌱 🔭 🏢 🌐 💫 💡 🛠  -->
 
-# 💡 About Me 🧑‍🎓💫:
+# 🧑‍🎓 About Me :
 I am a **Full Stack Developer and Backend Engineer** passionate about building **scalable, secure, and high-performance web applications**.
 
 My primary expertise lies in **backend engineering using Java and Node.js**, designing **REST APIs, authentication systems, and scalable architectures**.
@@ -71,7 +71,7 @@ I enjoy solving complex problems and designing **clean architectures using SOLID
 
 -----------------------------------------
 
-# 🚀 Featured Projects 🛠 
+# 🚀 Featured Projects 
 
 <details>
     <summary>## 🏦 SyncBank – Secure Banking Management System  </summary>
