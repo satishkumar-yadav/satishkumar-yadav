@@ -236,6 +236,53 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
  - **DevOps & Tools:**  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) 
  - **Soft Skills:** 
  - **Relevant Coursework:** 
+
+<table>
+   <tbody>
+      <tr>
+         <td>Programming Languages: </td>
+       <td>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</td>
+       <td>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</td>
+       <td>![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)</td>
+       <td>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</td>
+       <td>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</td>
+       <td> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</td>
+      </tr>
+      <tr>
+         <td>Backend Technologies: </td>
+         <td></td>
+      </tr>
+     <tr>
+         <td>Frontend Technologies: </td>
+         <td></td>
+      </tr>
+       <tr>
+         <td>Backend Technologies: </td>
+         <td></td>
+      </tr>
+       <tr>
+         <td>Databases: </td>
+         <td></td>
+      </tr>
+       <tr>
+         <td>DevOps & Tools : </td>
+         <td></td>
+      </tr> 
+       <tr>
+         <td>Soft Skill: </td>
+         <td></td>
+      </tr>
+     <tr>
+         <td>Relevant Courseworks: </td>
+         <td>Object Oriented Programming</td>
+         <td>Data Structures & Algorithm</td>
+         <td>Software Engineering</td>
+         <td>Database Management System </td>
+         <td>Operating System</td>
+         <td>Computer Networks</td> 
+      </tr>
+   </tbody>
+</table>
  
  <!-- professional  
  # 💻 Tech Stack
