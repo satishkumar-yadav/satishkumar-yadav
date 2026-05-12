@@ -250,7 +250,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
       </tr>
       <tr>
          <td>Backend Technologies: </td>
-         <td></td>
+         ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
       </tr>
      <tr>
          <td>Frontend Technologies: </td>
