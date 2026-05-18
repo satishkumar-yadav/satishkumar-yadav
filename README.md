@@ -237,6 +237,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
  - **Soft Skills:** 
  - **Relevant Coursework:** 
 
+<!-- 
 <table>
    <tbody>
       <tr>
@@ -276,6 +277,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
       </tr>
    </tbody>
 </table>
+-->
  
  <!-- professional  
  # 💻 Tech Stack
