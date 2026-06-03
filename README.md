@@ -55,7 +55,7 @@ I have hands-on experience developing **real-world full-stack applications** usi
 
 - **Java (Core Java, Java 8, SpringBoot, Hibernate, Jakarta Servlets, JDBC)**
 - **Node.js / Express.js**
-- **React.js**
+- **React.js / Next.js**
 - **MySQL & MongoDB**
 - **JWT Authentication & Session Management**
 - **Cloud deployment (AWS EC2, Netlify, Render)**
