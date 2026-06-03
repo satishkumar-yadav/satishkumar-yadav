@@ -279,7 +279,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
 </table>
 -->
  
- <!-- professional  
+ <!-- professional     
  # 💻 Tech Stack
 
 ## Programming Languages
