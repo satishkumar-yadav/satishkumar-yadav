@@ -427,7 +427,7 @@ A **dynamic full-stack blogging platform** supporting content publishing and man
 <img src="https://img.shields.io/badge/Download%20MERN Resume-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1Ij1qW8OOW8H9ndqBaKRjy8a799LEvvLA/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1CB8t9dZ9_dL637iv_QNCi7sBFX8azKdq/view?usp=sharing">
 <img src="https://img.shields.io/badge/Download%20Java Resume-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
